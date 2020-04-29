@@ -1,0 +1,12 @@
+name: fastai
+channels:
+  - fastai
+  - pytorch
+  - conda-forge
+dependencies:
+  - pytorch=1.4.0
+  - fastai
+  - jupyter
+  - notebook
+  - widgetsnbextension
+  - ipywidgets
