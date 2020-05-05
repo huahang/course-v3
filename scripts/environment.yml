@@ -3,6 +3,7 @@ channels:
   - fastai
   - pytorch
   - conda-forge
+  - anaconda
 dependencies:
   - pytorch=1.4.0
   - fastai
@@ -10,3 +11,5 @@ dependencies:
   - notebook
   - widgetsnbextension
   - ipywidgets
+  - ipyparallel
+  
